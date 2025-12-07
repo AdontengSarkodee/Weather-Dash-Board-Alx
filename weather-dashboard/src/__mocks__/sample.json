@@ -1,0 +1,64 @@
+{
+  "timezone": "Africa/Accra",
+  "current": {
+    "dt": 1693520000,
+    "temp": 28.4,
+    "feels_like": 28.0,
+    "humidity": 41,
+    "wind_speed": 2,
+    "weather": [
+      {
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ]
+  },
+  "hourly": [
+    {
+      "dt": 1693523600,
+      "temp": 26,
+      "wind_speed": 1,
+      "weather": [
+        {
+          "icon": "01d"
+        }
+      ]
+    }
+  ],
+  "daily": [
+    {
+      "dt": 1693606400,
+      "temp": {
+        "day": 27
+      },
+      "weather": [
+        {
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "dt": 1693692800,
+      "temp": {
+        "day": 28
+      },
+      "weather": [
+        {
+          "icon": "01d"
+        }
+      ]
+    },
+    {
+      "dt": 1693779200,
+      "temp": {
+        "day": 26
+      },
+      "weather": [
+        {
+          "icon": "10d"
+        }
+      ]
+    }
+  ]
+}
